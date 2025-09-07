@@ -2,7 +2,7 @@
 
 This is my **personal portfolio website** built with **React.js + Tailwind CSS**, showcasing my skills, projects, and experience in **Web Development** and **AI/Data Science**.  
 
-🚀 **Live Demo:** [(https://reetesh-portfolio.vercel.app/)][((https://reetesh-portfolio.vercel.app/))]
+🚀 **Live Demo:** (https://reetesh-portfolio.vercel.app/)
 
 ---
 
@@ -29,7 +29,7 @@ This is my **personal portfolio website** built with **React.js + Tailwind CSS**
 ![Home Screenshot](screenshots/home.png)  
 
 ### Projects Page  
-![Projects Screenshot](screenshots/projects.png)  
+![Projects Screenshot](screenshots/project.png)  
 
 *(Add your screenshots inside a `/screenshots` folder in the repo and link them here.)*  
 
