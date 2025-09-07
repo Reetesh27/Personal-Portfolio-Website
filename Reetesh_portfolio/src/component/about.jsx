@@ -9,7 +9,7 @@ const About = () => {
     >
       <Slidein direction="up">
         <div className="max-w-4xl text-center md:text-left">
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-8 text-[#76e3b5]">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl flex justify-center font-bold mb-8 text-[#76e3b5]">
             About Me
           </h2>
 
@@ -64,3 +64,4 @@ const About = () => {
 };
 
 export default About;
+
