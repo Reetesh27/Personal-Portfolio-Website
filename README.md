@@ -17,8 +17,8 @@ This is my **personal portfolio website** built with **React.js + Tailwind CSS**
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)  
-- **Deployment:** Vercel / Netlify  
+- **Frontend:** React.js, Tailwind CSS, JavaScript
+- **Deployment:** Vercel
 - **Version Control:** Git & GitHub  
 
 ---
@@ -31,7 +31,7 @@ This is my **personal portfolio website** built with **React.js + Tailwind CSS**
 ### Projects Page  
 ![Projects Screenshot](screenshots/project.png)  
 
-*(Add your screenshots inside a `/screenshots` folder in the repo and link them here.)*  
+
 
 ---
 
