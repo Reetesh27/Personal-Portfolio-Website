@@ -22,6 +22,13 @@ const projects = [
       "Voice-based assistant built with Python, converted into a web app.",
     tech: ["Python", "Flask", "React"],
   },
+  {
+    title: "E commerce Website",
+    description:
+      "Discover & shop the latest trends in electronics, and more on our e-commerce platform, where convenience meets style and quality!",
+    tech: ["React", "Tailwind"],
+    demo: "https://web-project-ten-rho.vercel.app/",
+  },
 ];
 
 export default function Project() {
@@ -91,3 +98,4 @@ export default function Project() {
     </section>
   );
 }
+
