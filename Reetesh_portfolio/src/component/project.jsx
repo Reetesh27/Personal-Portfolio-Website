@@ -29,6 +29,13 @@ const projects = [
     tech: ["React", "Tailwind"],
     demo: "https://web-project-ten-rho.vercel.app/",
   },
+  {
+    title: "Netflix Data Analysis",
+    description:
+      "A dynamic Streamlit dashboard that analyzes Netflix movies and TV shows using interactive visualizations and real-time filtering.",
+    tech: ["Streamlit", "Python", "matplotlib"],
+    demo: "https://netflix-dashboard-app.streamlit.app/",
+  },
 ];
 
 export default function Project() {
@@ -98,4 +105,5 @@ export default function Project() {
     </section>
   );
 }
+
 
