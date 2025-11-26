@@ -1,6 +1,6 @@
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 import Slidein from "./SlideIn.jsx";
-import profile from "../assets/profile.png";
+import profile from "../assets/profile.jpg";
 
 export default function Hero() {
   return (
@@ -58,3 +58,4 @@ export default function Hero() {
     </section>
   );
 }
+
