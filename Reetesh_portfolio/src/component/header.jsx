@@ -62,12 +62,12 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="#contact"
+                href="#services"
                 className={`hover:underline ${
                   activeSection === "contact" ? "underline text-green-400" : ""
                 }`}
               >
-                Contact
+                Services
               </a>
             </li>
           </ul>
@@ -121,13 +121,13 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="#contact"
+                href="#services"
                 onClick={() => setMenuOpen(false)}
                 className={`hover:underline ${
                   activeSection === "contact" ? "underline text-green-400" : ""
                 }`}
               >
-                Contact
+                Services
               </a>
             </li>
           </ul>
@@ -138,3 +138,4 @@ const Header = () => {
 };
 
 export default Header;
+
