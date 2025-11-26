@@ -4,6 +4,7 @@ import About from './about.jsx'
 import Skill from './skill.jsx'
 import Project from './project.jsx'
 import Testimonials from './testimonial.jsx'
+import Service from './Service.jsx'
 import Contact from './contact.jsx'
 import Footer from './footer.jsx'
 
@@ -16,6 +17,7 @@ const Protfolio = () => {
         <Skill></Skill>
         <Project></Project>
         <Testimonials></Testimonials>
+        <Service></Service>
         <Contact></Contact>
         <Footer></Footer>
     </div>
@@ -23,3 +25,4 @@ const Protfolio = () => {
 };
 
 export default Protfolio;
+
